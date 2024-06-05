@@ -17,5 +17,7 @@ public class Main {
         System.out.println(galaxy);
         galaxy.addPlanet(planetB);
         System.out.println(galaxy);
+
+        System.out.println("+");
     }
 }
